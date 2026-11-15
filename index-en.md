@@ -51,7 +51,9 @@ For the apps blocked by "phone stop", the app does not read how long or how ofte
 
 #### 4.3 Personal Information
 
-The developer does not collect personally identifiable information such as names, addresses, or email addresses through the app. There is no account registration.
+The developer does not automatically collect personally identifiable information such as names, addresses, or email addresses through the app. There is no account registration.
+
+Only when you send an email from the app's request and inquiry screen, the developer receives your email address, the content of the email, the app version, and the OS version. This information is used to reply, to investigate bugs, and to consider improvements to the app.
 
 ### 5. Third-Party Services
 
@@ -90,10 +92,13 @@ Information handled by the app is used for the following purposes:
 - Blocking the apps you choose for the time you choose
 - Displaying ads in the free version
 - Checking the purchase state of Pro
+- Responding to emails you send to us
 
-### 7. Opening External Pages
+### 7. Opening External Pages and the Email App
 
-The app may open the "add an exam / send a request" form, the App Store review screen, and the page of this Privacy Policy. The app shows a confirmation before opening them. It does not attach your usage, registered exams, records, or device-identifying information when opening them.
+The app may open the App Store review screen and the page of this Privacy Policy. The app shows a confirmation before opening them. It does not attach your usage, registered exams, records, or device-identifying information when opening them.
+
+The request and inquiry screen opens your email app with the recipient, subject, and message filled in. The app version and the OS version are added at the end of the message. Your registered exams, records, and usage are not added. You send the email in your email app.
 
 The app may also show the standard iOS review prompt. iOS decides how often it is shown.
 

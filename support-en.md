@@ -33,7 +33,7 @@ To use your Pro purchase on another device, or after reinstalling the app, tap "
 
 ## Contact Information
 
-For questions, bug reports, or feature requests, please contact us by email. You can also send a request to add an exam from "Add an exam / Requests" in the app's settings.
+For questions, bug reports, or feature requests, you can choose a type (add an exam, bug, feature request, or other) and send an email from "Add an exam / Requests" in the app's settings. The app version and the OS version are added at the end of the message. You can also email us directly at the address below.
 
 Email: t.azegami213@gmail.com
 
